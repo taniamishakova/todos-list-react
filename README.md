@@ -1,3 +1,26 @@
+# 📌 To do list
+- Made by Tania Mishakova
+- Release: 02.06.2021
+![todo list](public/readme.png)
+## 🔗 Demo
+https://taniamishakova.github.io/todos-list-react/
+
+## Description
+A simple animated "To do list" app with the ability to mark completed tasks or remove them from the list.
+
+## Usage
+1. Click on the active field.
+2. Write down a task.
+3. Click on "add task" button.
+4. The task will appear in the list below.
+5. If you want to mark Your task as "done", please press green button.
+6. If you want to delete Your task, please click on red button.
+
+## Technologies
+- HTML
+- CSS(included Grid and Flex)
+- JavaScript(ES6+ features)
+- BEM
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
