@@ -1,7 +1,7 @@
 # 📌 To do list
 - Made by Tania Mishakova
 - Release: 02.06.2021
-![todo list](public/readme.png)
+![todo list](public/lista.png)
 ## 🔗 Demo
 https://taniamishakova.github.io/todos-list-react/
 
@@ -24,6 +24,7 @@ A simple animated "To do list" app with the ability to mark completed tasks or r
 - CSS(included Grid and Flex)
 - JavaScript(ES6+ features)
 - BEM
+- React JS
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
