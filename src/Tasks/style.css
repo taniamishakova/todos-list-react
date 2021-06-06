@@ -1,5 +1,4 @@
 .taskList {
-    list-style-type: none;
     padding: 0px;
     margin: 5px 5px 20px;
     background-color: white;
@@ -15,7 +14,7 @@
     word-break: break-word;
 }
 
-.taskList__item--hide {
+.taskList__item--hidden {
     display: none;
 }
 
@@ -35,7 +34,6 @@
     background-color: green;
     margin: 0 15px;
     flex: 0 0 30px;
-    font-size: 15px;
     transition: background 0.5s;
 }
 
