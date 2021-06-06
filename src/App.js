@@ -15,7 +15,7 @@ function App() {
   return (
     <Container>
       <Header
-      title="Lista zadań"
+        title="Lista zadań"
       />
 
       <Section
