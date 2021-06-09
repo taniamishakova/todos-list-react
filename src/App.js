@@ -35,14 +35,14 @@ function App() {
       <Section
         title="Lista zadań"
         body={
-          <Tasks tasks={tasks} hideDone={hideDone} removeTask={removeTask}/>
+          <Tasks tasks={tasks} hideDone={hideDone} removeTask={removeTask} />
         }
         extraHeaderContent={
           <Buttons
             tasks={tasks}
             hideDone={hideDone}
-            toggleHideDone={toggleHideDone} 
-            />
+            toggleHideDone={toggleHideDone}
+          />
         }
       />
     </Container >
